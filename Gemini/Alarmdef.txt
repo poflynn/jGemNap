@@ -1,0 +1,256 @@
+00 - fire alarm
+01 - fire restoral
+02 - fire trouble
+03 - fire trouble restore
+04 - panic alarm
+05 - panic restore
+06 - panic trouble
+07 - panic trouble restore
+08 - burglary alarm
+09 - burglary restoral
+0A - burglary trouble
+0B - burglary trouble restore
+0C - holdup alarm
+0D - holdup restore
+0E - holdup trouble
+0F - holdup trouble restore
+10 - fire supervisory
+11 - fire restore
+12 - fire trouble
+13 - fire trouble restore
+14 - water alarm (waterflow)
+15 - water restore
+16 - water trouble
+17 - water trouble restore
+18 - gas alarm
+19 - gas restore
+1A - gas trouble
+1B - gas trouble restore
+1C - heat alarm
+1D - heat restore
+1E - heat trouble
+1F - heat trouble restore
+20 - sprinkler alarm (waterflow)
+21 - sprinkler restore
+22 - sprinkler trouble
+23 - sprinkler trouble restore
+24 - medical alarm
+25 - medical restore
+26 - medical trouble
+27 - medical trouble restore
+28 - Untyped Zone Alarm
+29 - unused
+2A - unused
+2B - unused
+2C - unused
+2D - unused
+2E - unused
+2F - unused
+30 - unused
+31 - unused
+32 - unused
+33 - unused
+34 - unused
+35 - unused
+36 - unused
+37 - unused
+38 - unused
+39 - unused
+3A - unused
+3B - unused
+3C - opening
+3D - closing
+3E - opening report after alarm
+3F - forced closing (conditonal closing)
+40 - holdup alarm (ambush)
+41 - keypad panic alarm
+42 - keypad fire alarm
+43 - keypad emergency alarm
+44 - keypad tamper alarm
+45 - Fail to Open
+46 - Fail to Close
+47 - unused
+48 - Test Timer
+49 - Siren Cut
+4A - Bus Failure
+4B - Parameter Checksum Failure
+4C - Low Battery
+4D - AC Trouble
+4E - Tamper Alarm
+4F - Sensor Watch
+50 - Automatic Test
+51 - Siren Cut Restore
+52 - Bus Failure Restore
+53 - Parameter Checksum Failure
+54 - System Battery Trouble
+55 - AC Trouble
+56 - Tamper EZM Restore
+57 - Sensor Watch Restore
+58 - Tel 1 Fail
+59 - Tel 2 Fail
+5A - TELEMETRY TROUBLE
+5B - TELEMETRY FAILURE
+5C - TAMPER ALARM 1 FEZM
+5D - Ground Fault FEZM
+5E - Ground Fault Panel
+5F - Fault Signal Circuit
+60 - Tel 1 Restore
+61 - Tel 2 Restore
+62 - TELEMETRY TROUBLE RESTORE
+63 - TELEMETRY FAILURE RESTORE
+64 - TAMPER RESTORE FEZM
+65 - Ground Fault FEZM Restore
+66 - Ground Fault Panel Restore
+67 - Fault Signal Circuit Restore
+68 - Manual Communication Test
+69 - Guard Tour Fail
+6A - Fire 4 wire bus failure
+6B - Service Message
+6C - Panel Reprogrammed
+6D - RF Supervisory
+6E - RF Tamper
+6F - RF Low Battery
+70 - Manual Communication Test Restore
+71 - Guard Tour Restore
+72 - Fire 4 wire bus Restore
+73 - Service Message
+74 - Panel Reprogrammed
+75 - RF Supervisory Restoral
+76 - RF Tamper Restoral
+77 - RF Low Battery Restoral
+78 - Unused
+79 - Unused
+7A - Unused
+7B - Unused
+7C - Unused
+7D - Unused
+7E - Unused
+7F - Unused
+80 - Unused
+81 - Unused
+82 - Unused
+83 - Unused
+84 - Unused
+85 - Unused
+86 - Unused
+87 - Unused
+88 - Unused
+89 - Unused
+8A - Unused
+8B - Unused
+8C - Unused
+8D - Unused
+8E - Unused
+8F - Unused
+90 - Unused
+91 - Unused
+92 - Unused
+93 - Unused
+94 - Unused
+95 - Unused
+96 - Unused
+97 - Unused
+98 - Unused
+99 - Unused
+9A - Unused
+9B - Unused
+9C - Unused
+9D - Unused
+9E - Unused
+9F - Unused
+A0 - Unused
+A1 - Unused
+A2 - Unused
+A3 - Unused
+A4 - Unused
+A5 - Unused
+A6 - Unused
+A7 - Unused
+A8 - Unused
+A9 - Unused
+AA - Unused
+AB - Unused
+AC - Unused
+AD - Unused
+AE - Unused
+AF - Unused
+B0 - Unused
+B1 - Unused
+B2 - Unused
+B3 - Unused
+B4 - Unused
+B5 - Unused
+B6 - Unused
+B7 - Unused
+B8 - Unused
+B9 - Unused
+BA - Unused
+BB - Unused
+BC - Unused
+BD - Unused
+BE - Unused
+BF - Unused
+C0 - Unused
+C1 - Unused
+C2 - Unused
+C3 - Unused
+C4 - Unused
+C5 - Unused
+C6 - Unused
+C7 - Unused
+C8 - Unused
+C9 - Unused
+CA - Unused
+CB - Unused
+CC - Unused
+CD - Unused
+CE - Unused
+CF - Unused
+D0 - Unused
+D1 - Unused
+D2 - Unused
+D3 - Unused
+D4 - Unused
+D5 - Unused
+D6 - Unused
+D7 - Unused
+D8 - Unused
+D9 - Unused
+DA - Unused
+DB - Unused
+DC - Unused
+DD - Unused
+DE - Unused
+DF - Unused
+E0 - Unused
+E1 - Unused
+E2 - Unused
+E3 - Unused
+E4 - Unused
+E5 - Unused
+E6 - Unused
+E7 - Unused
+E8 - Unused
+E9 - Unused
+EA - Unused
+EB - Unused
+EC - Unused
+ED - Unused
+EE - Unused
+EF - Unused
+F0 - Unused
+F1 - Unused
+F2 - Unused
+F3 - Unused
+F4 - Unused
+F5 - Unused
+F6 - Unused
+F7 - Unused
+F8 - Unused
+F9 - Unused
+FA - Unused
+FB - Unused
+FC - Unused
+FD - Unused
+FE - Unused
+FF - Unused

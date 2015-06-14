@@ -1,0 +1,40 @@
+unused 0
+unused 1
+unused 2
+unused 3
+unused 4
+unused 5
+unused 6
+unused 7
+unused 8
+unused 9
+unused a
+unused b
+unused c
+unused d
+unused e
+unused f
+unused 19
+PCD3000 Local: Granted
+PCD3000 Remote: Granted
+PCD3000 Callback: Granted
+PCPreset SiteInit: Granted
+PCPreset Remote: Granted
+PCPreset Callback: Granted
+PCD3000 SiteInit: Granted
+unused 18
+unused 19  
+unused 1a
+unused 1b
+unused 1c
+unused 1d
+unused 1e
+unused 1f
+unused 20
+PCD3000 Local: Denied
+PCD3000 Remote: Denied
+PCD3000 Callback: Denied
+PCPreset SiteInit: Denied
+PCPreset Remote: Denied
+PCPreset Callback: Denied
+PCD3000 SiteInit: Denied

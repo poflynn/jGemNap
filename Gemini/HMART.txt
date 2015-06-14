@@ -1,0 +1,256 @@
+00 - Alarm
+01 - Restore
+02 - Trouble
+03 - TBL RST
+04 - Reserved for future use
+05 - Reserved for future use
+06 - Reserved for future use
+07 - Reserved for future use
+08 - Panel Reset Normal
+09 - Panel Reset Watchdog
+0A - KP Fail
+0B - EZM Fail
+0C - KP Restore
+0D - EZM Restore
+0E - Relay On
+0F - Relay Off
+10 - Fire
+11 - Fire RST
+12 - Fire TBL
+13 - Fire TBL RST
+14 - Reserved for future use
+15 - Reserved for future use
+16 - Reserved for future use
+17 - Reserved for future use
+18 - Date
+19 - Time
+1A - Reserved for future use
+1B - Reserved for future use
+1C - Printer Fail
+1D - Printer Restore
+1E - Failure to communicate
+1F - Comm Restored
+20 - OPEN
+21 - Home Automation Open
+22 - Home Automation Close
+23 - Reserved for future use
+24 - Reserved for future use
+25 - Reserved for future use
+26 - Reserved for future use
+27 - Reserved for future use
+28 - User program mode activity
+29 - Dealer pgm mode activity
+2A - QL Connection dealer
+2B - QL Connection technical
+2C - QL Connection terminated
+2D - QL Upload
+2E - QL Dnload
+2F - QL Verify
+30 - CLOSE
+31 - RFEZM Fail
+32 - RFEZM RST
+33 - RFEZM Tamper
+34 - RFEZM Tamper RST
+35 - RFEZM receiver Jam
+36 - RFEZM receiver jam RST
+37 - Reserved for future use
+38 - QL Device control
+39 - QL System shut-down
+3A - QL Histroy log activity
+3B - QL Keypad reset
+3C - QL Bypass
+3D - QL TBL bypass
+3E - QL Service Code
+3F - Reset sensor watch
+40 - Test timer
+41 - Reserved for future use
+42 - Alarm Supervisory
+43 - Alarm Supervisory Restore
+44 - Keypad bus fail
+45 - Keypad bus RST
+46 - Reserved for future use
+47 - Reserved for future use
+48 - Low Bat
+49 - Low Bat RST
+4A - AC Fail
+4B - AC RST
+4C - EZM Tamper
+4D - EZM Tamper RST
+4E - Sensor Fail
+4F - Reserved for future use
+50 - Telco 1 fail
+51 - Telco 1 RST
+52 - Telco 2 fail
+53 - Telco 2 RST
+54 - Telemetry Trouble
+55 - Telemetry Restore
+56 - Telemetry Failure
+57 - Telemetry Failure Restore
+58 - FEZM Tamper
+59 - FEZM Tamper RST
+5A - V61:FEZM Ground fault
+5B - V61:FEZM Ground fault RST
+5C - Panel Ground fault
+5D - Panel Ground fault RST
+5E - Panel Signal ckt fault
+5F - Panel Signal ckt RST
+60 - Digital Dialer test
+61 - Reserved for future use
+62 - Guard Tour Fail
+63 - Guard Tour Start
+64 - Bus 2 Fail
+65 - Bus 2 Restore
+66 - Service message activated
+67 - Reserved for future use
+68 - Program change
+69 - Reserved for future use
+6A - RF Tx Supv Fail
+6B - RF Tx Supv RST
+6C - RF Tx Tamper
+6D - RF Tx Tamper RST
+6E - RF Tx Low Bat
+6F - RF Tx Low Bat RST
+70 - Keypad Ambush
+71 - Reserved for future use
+72 - Keypad Panic
+73 - Reserved for future use
+74 - Keypad Fire
+75 - Reserved for future use
+76 - Keypad Medical
+77 - Reserved for future use
+78 - Keypad Tamper
+79 - Keypad Tamper RST
+7A - Fail to Open
+7B - Reserved for future use
+7C - Fail to Close
+7D - Reserved got future use
+7E - Fire bypass
+7F - Fire unbypass
+80 - Water alarm
+81 - Water RST
+82 - Water TBL
+83 - Water TBL RST
+84 - Reserved for future use
+85 - Reserved for future use
+86 - Relay On
+87 - Relay Off
+88 - QL:Log cleared
+89 - NT:Log cleared
+8A - QL:Remote relay control
+8B - Burg Bell silence
+8C - About to set clock
+8D - Dealer mem fail
+8E - User mem fail
+8F - Fire Bell Silence
+90 - Fire Supv
+91 - Fire Supv RST
+92 - Fire Supv TBL
+93 - Fire Supv TBL RST
+94 - Reserved for future use
+95 - Reserved for future use
+96 - Reserved for future use
+97 - Reserved for future use
+98 - Auto-arm delayed 1 hour
+99 - Auto-arm delayed 2 hours
+9A - Auto-arm delayed 3 hours
+9B - Auto-arm delayed 4 hours
+9C - Auto-arm disabled
+9D - PCD forced WatchDog
+9E - FKP:Tamper
+9F - FKP:Tamper RST
+A0 - Day zone Alarm
+A1 - Day zone RST
+A2 - Day zone TBL
+A3 - Day zone TBL RST
+A4 - RBM Sig Circuit fault
+A5 - RBM Sig Circuit Fault RST
+A6 - RBM Fail
+A7 - RBM RST
+A8 - History Log Auto dump fail
+A9 - PCD Callback failure
+AA - Quickloader Verify fail
+AB - Door Access
+AC - History Log Auto dump
+AD - Fire Drill
+AE - PCPreset Log up load
+AF - Silence Pulse Burg t/o
+B0 - One Man test Alarm
+B1 - One Man test RST
+B2 - Fail to close delayed 1 hour
+B3 - Fail to close delayed 2 hours
+B4 - Fail to close delayed 3 hours
+B5 - Fail to close delayed 4 hours
+B6 - Fail to close disabled
+B7 - Pulsed burg bell silenced
+B8 - Burg bell time-out
+B9 - Fire bell time-out
+BA - Guard tour pass
+BB - Guard tour station
+BC - Auto-Bypass zone re-entry
+BD - Low RF Sig Level
+BE - KeyFob LB
+BF - KeyFob LB RST
+C0 - Zone OPEN 
+C1 - Zone SHORT
+C2 - Zone NORMAL
+C3 - Self Test Failure
+C4 - Bypass
+C5 - Unbypass
+C6 - Security Bypass
+C7 - Reserved for future use
+C8 - Reserved for future use
+C9 - HA Burg Bell Silenced
+CA - HA Fire Bell Silenced
+CB - HA Pulsed Burg Bell Silenced
+CC - Reserved for future use
+CD - Reserved for future use
+CE - Reserved for future use
+CF - Reserved for future use
+D0 - Reserved for future use
+D1 - Reserved for future use
+D2 - Reserved for future use
+D3 - Reserved for future use
+D4 - Reserved for future use
+D5 - Reserved for future use
+D6 - Reserved for future use
+D7 - Reserved for future use
+D8 - Reserved for future use
+D9 - Reserved for future use
+DA - Reserved for future use
+DB - Reserved for future use
+DC - Reserved for future use
+DD - Reserved for future use
+DE - Reserved for future use
+DF - Reserved for future use
+E0 - Reserved for future use
+E1 - Reserved for future use
+E2 - Reserved for future use
+E3 - Reserved for future use
+E4 - Reserved for future use
+E5 - Reserved for future use
+E6 - Reserved for future use
+E7 - Reserved for future use
+E8 - Reserved for future use
+E9 - Reserved for future use
+EA - Reserved for future use
+EB - Reserved for future use
+EC - Reserved for future use
+ED - Reserved for future use
+EE - Reserved for future use
+EF - Reserved for future use
+F0 - Reserved for future use
+F1 - Reserved for future use
+F2 - Reserved for future use
+F3 - Reserved for future use
+F4 - Reserved for future use
+F5 - Reserved for future use
+F6 - Reserved for future use
+F7 - Reserved for future use
+F8 - Reserved for future use
+F9 - Reserved for future use
+FA - Reserved for future use
+FB - Reserved for future use
+FC - Reserved for future use
+FD - Reserved for future use
+FE - Reserved for future use
+FF - Reserved for future use

@@ -1,0 +1,6 @@
+TimeOut
+User (1-96)
+Auto
+QL
+Keyswitch
+Keyfob (1-16)

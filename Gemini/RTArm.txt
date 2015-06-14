@@ -1,0 +1,7 @@
+PowerRestore
+User (1-96)
+Auto
+QL
+EasyArm
+Keyswitch
+Keyfob (1-16)

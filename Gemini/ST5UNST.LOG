@@ -1,0 +1,132 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+CONFIG: Title: "HMA Demo Project"
+
+ACTION: TempFile: "C:\WINDOWS\setup1.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\VB5StKit.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MSVBVM50.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\StdOle2.tlb"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OleAut32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OlePro32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\AsycFilt.dll"
+(File currently on disk was already up to date)
+
+NOTE: The file 'Ctl3d32.dll' was not copied because it is intended for use under Windows NT 3.51 only.  It is not needed under Windows 95 or NT 4.0.
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\Ctl3d32.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\ComCat.dll"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSVBVM50.dll"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM\StdOle2.tlb"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OleAut32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OlePro32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\ComCat.dll"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'C:\WINDOWS\setup1.exe'....
+
+ACTION: CreateDir: "C:\Program Files\HMA Demo Project"
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\COMDLG32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCOMM32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSFLXGRD.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\COMCTL32.OCX"
+(File currently on disk was already up to date)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\HMA Demo Project.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\RichEd32.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MFC40.dll"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MSVCRT40.dll"
+(File currently on disk was already up to date)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\CmdArray.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\FScmd.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\GP9600 event-log interpretation.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\HMA32.ini"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\RTAccess.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\RTArm.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\RTLevels.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\RTOputs.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\RTTO.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\Alarmdef.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\HMAFScmd.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "C:\Program Files\HMA Demo Project\HMART.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\COMDLG32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSCOMM32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSFLXGRD.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\COMCTL32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MFC40.dll"
+
+ACTION: ShellLink: "", "HMA Demo Project"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\HMA Demo Project.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\HMA Demo Project.exe", ""
+

@@ -1,0 +1,12 @@
+Time
+Shorted Zones
+Open Zones
+Protected Zones
+Manually Bypassed Zones
+Remotely Bypassed Zones
+RF Open Zones
+RF Shorted Zones
+Command 8
+Command 9
+Command 10
+Command 11
